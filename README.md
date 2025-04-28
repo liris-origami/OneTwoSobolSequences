@@ -6,7 +6,7 @@ This repository contains the supplementary material of the paper *Sobol’ Seque
 
 ## New Sobol' initialization matrices
 
-Following Joe and Kuo format, we provide, in the `OneTwoSeq_data` folder, the list of polynomials and initialization matrices to generate low discrepancy sequences with (1,2)-sequence properties for consecutive projections, and optimized discrepancies for consecutive quadruples of dimensions.
+Following Joe and Kuo format, we provide, in the [OneTwoSeq_data](OneTwoSeq_data) folder, the list of polynomials and initialization matrices to generate low discrepancy sequences with (1,2)-sequence properties for consecutive projections, and optimized discrepancies for consecutive quadruples of dimensions.
 
 
 ## Stand-alone sampler and PBRT plugin
