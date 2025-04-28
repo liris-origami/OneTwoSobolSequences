@@ -1,9 +1,9 @@
 This folder contains the following data:
 
-* sobolOneTwoSeq_init_tab.dat -- initialization data for 692 dimensions, in Joe and Kuo format
-* matrices_sobolOneTwoSeq.dat -- generator matrices for 692 dimensions, of size 32x32
-* complementary_init_tab_JoeKuo_without_OneTwoSeq.dat -- complementary initialization data from new-joe-kuo-6.21201, not conflicting with the entries of sobolOneTwoSeq_init_tab.dat
-* matrices_Ke -- directory, that contains matrices Ke (see Algorithm 1)
+* `sobolOneTwoSeq_init_tab.dat` -- initialization data for 692 dimensions, in Joe and Kuo format
+* `matrices_sobolOneTwoSeq.dat` -- generator matrices for 692 dimensions, of size 32x32
+* `complementary_init_tab_JoeKuo_without_OneTwoSeq.dat` -- complementary initialization data from new-joe-kuo-6.21201, not conflicting with the entries of sobolOneTwoSeq_init_tab.dat
+* `matrices_Ke/` -- directory, that contains matrices Ke (see Algorithm 1)
     - Ke_e1_2.dat       2 matrices of size of 2e x e2 = 2 x 2
     - Ke_e2_6.dat       6 matrices of size of 2e x e2 = 4 x 4
     - Ke_e3_40.dat      40 matrices of size of 2e x e2 = 6 x 6
