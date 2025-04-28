@@ -13,5 +13,5 @@ Following Joe and Kuo format, we provide, in the `OneTwoSeq_data` folder, the li
 
 In the `sampler/` folder, we provide the source code of a stand-alone sampler to generate samples using the new Sobol' matrices.
 
-We also provide a [PBRT](https://www.pbrt.org) plugging allowing to reproduce the rendering results given in the main article.
+We also provide a [PBRT-v4](https://github.com/mmp/pbrt-v4) plugging allowing to reproduce the rendering results given in the main article.
 
