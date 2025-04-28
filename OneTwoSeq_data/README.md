@@ -17,7 +17,7 @@ and
 `S. Joe and F. Y. Kuo (2008), Constructing Sobol′ sequences with better two-dimensional
 projections, SIAM J. Sci. Comput. 30, 2635–2654`
 
-*Attention:* our file sobolOneTwoSeq_init_tab.dat contains the following entry
+**Attention:** our file sobolOneTwoSeq_init_tab.dat contains the following entry
 0 0 0 # this is a pseudo-entry, which corresponds to van-der-Corput (identity generator matrix)
 
 Joe and Kuo format treats the first van-der-Corput entry as an exception!
